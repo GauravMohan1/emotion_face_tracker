@@ -13,7 +13,7 @@ pip install https://mango.sievedata.com/v1/client_package/sievedata-0.0.1.1.2-py
 
 2. Deploy the workflow to Sieve
 ```
-git clone 
+git clone git@github.com:GauravMohan1/emotion_face_tracker.git
 cd emotion_face_tracker
 sieve deploy
 ```
